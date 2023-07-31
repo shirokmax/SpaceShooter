@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1465269751504570153
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7719655539957282899}
+  - component: {fileID: 3263267876537220554}
+  - component: {fileID: 6059952280141953489}
+  m_Layer: 0
+  m_Name: MonsterShipsSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7719655539957282899
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1465269751504570153}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.42, y: 31.2, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3263267876537220554
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1465269751504570153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4e82f46eec83e143b8e6cf5d9ef0cce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Radius: 12
+  m_ColorStyle: 1
+--- !u!114 &6059952280141953489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1465269751504570153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1889c8f255eb81740b9cb7acd0ea7cdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SpawnMode: 1
+  m_SpawnCount: 3
+  m_RespawnTime: 20
+  m_SpawnCountLimit: 3
+  AISpaceshipPrefabs:
+  - {fileID: 2646290389677335643, guid: 1e08898a61a13d04590cfdb7b66b60cc, type: 3}
+  - {fileID: 7694135783399888026, guid: 9976c192cc5e0c14288e358d22da68a9, type: 3}
+  - {fileID: 118050827827870860, guid: fcdd187c50b1c6a46b45184410241c3b, type: 3}
+  m_AIPrefabsProperties:
+  - {fileID: 11400000, guid: 21f77a125bef20f4ea0d7f3684749b86, type: 2}
+  - {fileID: 11400000, guid: 49cf3901cbfc2aa41a6edc936850ef8c, type: 2}
+  - {fileID: 11400000, guid: 5cc9aabee98c6524f940fc07306420b7, type: 2}
+  m_TeamId: 2
+  m_AIBehaviour: 2
+  m_PatrolArea: {fileID: 3263267876537220554}
+  m_PatrolRoute: {fileID: 0}
+  m_PatrolRouteZoneRadius: 0
+  m_RandomFirstRoutePoint: 0
+  m_ResetAgro: 0
+  m_AgroResetRadius: 32

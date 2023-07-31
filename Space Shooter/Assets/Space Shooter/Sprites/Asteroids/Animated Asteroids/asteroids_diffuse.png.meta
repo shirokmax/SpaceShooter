@@ -1,0 +1,6093 @@
+fileFormatVersion: 2
+guid: 8dd0835bc88ca0c4d9ae7347658eb919
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: asteroids_diffuse_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 606
+        width: 56
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e103aa2d9535aae4888493873fa8adf3
+      internalID: 229541356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 608
+        width: 62
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab963743aec6969458f8c1dbf777eb21
+      internalID: 1475602150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 608
+        width: 68
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4143d7c9c43bb46a3082b44e8f6c4c
+      internalID: 401719612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 610
+        width: 71
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9cc40e40a7d5d4daf1c23b28fd1982
+      internalID: 32667157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 611
+        width: 74
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c550c74221f734408eed1f63197be38
+      internalID: 1197200289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 612
+        width: 73
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0685ed5f3f7c32541a087d028f07cda0
+      internalID: 105494310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 612
+        width: 70
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9e171b11227444783a3efa99388fe5
+      internalID: 386649119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 613
+        width: 65
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e2d741a7fa6fa479fe0ca67558cefd
+      internalID: -653825809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_8
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 615
+        width: 61
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ca00a0b8811c74aa8d65f3127eeea4
+      internalID: -1475278694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_9
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 615
+        width: 61
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6ec73414013e45bd352f5a1d658b4
+      internalID: 1809750257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 616
+        width: 64
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33da37c42aff51d429b9b6e685359ee1
+      internalID: -242643681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_11
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 615
+        width: 65
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308f597257c66ad4b8e003ba4c556949
+      internalID: -612849687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_12
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 612
+        width: 65
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d5ee49e522bf1458e1a7fef8bfa9c2
+      internalID: 1975106511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_13
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 611
+        width: 62
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d21439e8f8b9d458719ce2d7a22ace
+      internalID: 228190312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_14
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 611
+        width: 62
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c815b7c8d90ce44998f45474a42ba06
+      internalID: 1164471116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_15
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 611
+        width: 61
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc85b4702b4def4a8cf04688ffb57f9
+      internalID: -23600580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_16
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 612
+        width: 63
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2211c7bd48676a4bb1ac87040571349
+      internalID: 2019489609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_17
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 611
+        width: 64
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce324e87bb21cd49b9ba530e902a19f
+      internalID: 1812813144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_18
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 610
+        width: 61
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19334fab790af0499885e3cd2aad124
+      internalID: -1360505974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_19
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 610
+        width: 59
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5aa6686288d47a4c8de45bad8b9fa77
+      internalID: -832018052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_20
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 610
+        width: 51
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7712fff1908d7414e9d71cb1156a0a79
+      internalID: 511295333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_21
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 610
+        width: 50
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65111c03e7c64d54888b760ca5930345
+      internalID: 1483614290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_22
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 609
+        width: 52
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9323b68ca77b7e343af0419c8978008f
+      internalID: 23150952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 534
+        width: 59
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efceefa12f3b4a343ac655eecfa58964
+      internalID: -1869863673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_30
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 536
+        width: 59
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d295f150c89a917418afd125e95a779e
+      internalID: 1035930398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_31
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 596
+        width: 6
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cae075b797f1f4a839dea29cc5ee44
+      internalID: 1478166371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_32
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 528
+        width: 61
+        height: 72
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a2602824879234f81de26628e8c20f
+      internalID: 767963419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 531
+        width: 65
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ec10877a183e54eb543941ea2ee276
+      internalID: -1232898618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 532
+        width: 64
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee80e5dbecc4e40b64d808ad28e963
+      internalID: -800113410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_35
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 531
+        width: 59
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93102fa84230f40a569dc4ece9371b
+      internalID: 1404508051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 541
+        width: 60
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dedc00b90d68ef4e84f8b34b0fe870e
+      internalID: 1127565187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_37
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 539
+        width: 63
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e228cc8f3df5643882f8bd037440c6
+      internalID: -1909209802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_38
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 528
+        width: 63
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e82ebeacc3d8e4a9446b553477f93a
+      internalID: -1931212914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_39
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 534
+        width: 63
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d5f536286717438dc94a36b30b4b0
+      internalID: -1329578560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_40
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 533
+        width: 63
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11ef0c4b6b312a41955e41ca82074f2
+      internalID: -1101673669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_41
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 530
+        width: 61
+        height: 65
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c63fcf05b8ef14dbca2d04db32cf09
+      internalID: 1074697784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_42
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 528
+        width: 48
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f751613d2d0ba0f4ab20a2dddd04b9a4
+      internalID: -1447622410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_43
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 529
+        width: 48
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eea4c4b67254b4fad98be83171e894
+      internalID: -899299855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_44
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 528
+        width: 52
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad809860286a1b4183912305312c53f
+      internalID: 1769837339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_45
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 528
+        width: 57
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf5d2eeef429df408e9d7a154132625
+      internalID: 2035858987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_46
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 530
+        width: 59
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a21bf66ccbac841b98ff50ddc6bf53
+      internalID: 253972009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_47
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 531
+        width: 62
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529710ed8e22c34696ecc660b910a89
+      internalID: -2031042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_48
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 535
+        width: 65
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864f88112fc3e654a996e31819199086
+      internalID: -1577913767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_49
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 536
+        width: 65
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c24bad242c90b2459f6074dcecf9317
+      internalID: 1747939117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_50
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 532
+        width: 75
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dfa5ce487c7cd4b9161ffe52380d11
+      internalID: -1245326615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_51
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 531
+        width: 67
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e6ad689abccb24cbf6a7a9ed8fcd61
+      internalID: -2126497313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_52
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 531
+        width: 70
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1846a20412a1a4e4694814281d7bcab4
+      internalID: 412308083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 523
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4a68a5facf17649bdfd6cb08384cc4
+      internalID: 853347123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_54
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 522
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687851e85a693ef4da48f58178b441a8
+      internalID: 1263295709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_55
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 522
+        width: 12
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c85cfd0108b6b429ee1ef65eb6ae0e
+      internalID: -1315540476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_56
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 462
+        width: 67
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b37fefbb3d086747a55f638db3dbd55
+      internalID: -788839640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_57
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 460
+        width: 59
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730cd0335f1804040a702c501087c5c2
+      internalID: -1497159089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 457
+        width: 57
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a070542d67d21c84a9b7c242bd37826b
+      internalID: -606573507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_59
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 455
+        width: 56
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f748a1a487f905429a10799573a1d87
+      internalID: 1823342995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_60
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 450
+        width: 59
+        height: 73
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadf3527a9e0e60458fa26d540fd38cf
+      internalID: 1627555342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_61
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 452
+        width: 55
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc4146ae7241641b7277fd480f6d63
+      internalID: -154836663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_62
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 451
+        width: 55
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d5141a07bef8540a8415fe73e7dafc
+      internalID: 626969351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_63
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 468
+        width: 6
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d841f5a27efa429da47478c09c27f
+      internalID: 624487103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 451
+        width: 61
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d078f4301507b4f8baec1445667aef
+      internalID: 136056463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_65
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 451
+        width: 59
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1994819b3eda43a48ade01ccb17c6226
+      internalID: 1673357869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_66
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 454
+        width: 63
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0eae8c40ef9c1f47bb9dabd75ca1c06
+      internalID: -786378669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_67
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 458
+        width: 65
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7c85d1faa52844282f7f646cc87e2c
+      internalID: 1256981848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_68
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 459
+        width: 67
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de9ae5928188a04ea688c0bf9f8d0d0
+      internalID: -660143122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_69
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 459
+        width: 71
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93b5d25a8b7a554db1b5052c537795a
+      internalID: -1337154389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_70
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 461
+        width: 71
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c4c56b69ef5841a8641d67f534c8b
+      internalID: -436475188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_71
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 456
+        width: 70
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b7528ac45d78741823cc0696e7e8d2
+      internalID: -1813181682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_72
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 464
+        width: 72
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4791a8a4ad8c149a207d163b88592b
+      internalID: -924743899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_73
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 456
+        width: 67
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23589245672d28d4d9bf9ca4d3c5cd97
+      internalID: -377459040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_74
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 464
+        width: 67
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0328bbd5d0dd4786d1681135a872d
+      internalID: 356737165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_75
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 464
+        width: 68
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9f0cb2c82d6bb41b011702d3437b8c
+      internalID: 1908611343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_76
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 463
+        width: 72
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52794bad2a849124a807599fb47bed24
+      internalID: 1142191810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_77
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 464
+        width: 66
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4200cb059be0842b90c1c601af3bf3
+      internalID: -1488641036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_78
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 463
+        width: 63
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d7ffa2866d339488995716de57b0e5
+      internalID: 1716764642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_79
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 461
+        width: 72
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676def06884d5e14a985da457e1395d1
+      internalID: 80494835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_80
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 456
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e316fe3826f39954a9b5a0cbd7d6c21e
+      internalID: 1171149931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_81
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 450
+        width: 4
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5495ee1225f3ed64c9c5cceab1b04e18
+      internalID: 1454939828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_82
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 450
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36654b315893e3944893f13c18e15307
+      internalID: -958387321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_83
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 391
+        width: 63
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e680b5528f204c9c0eb92d018adef
+      internalID: 1586176108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_84
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 379
+        width: 52
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50837dfcde812f645ac8df3ce12d6e70
+      internalID: 1683584603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_85
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 386
+        width: 53
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200810e8aea31634abcdecf2f6453331
+      internalID: 1188053869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_86
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 384
+        width: 63
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ffa7989359aae45a32325d0dd856e0
+      internalID: 40489801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_87
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 381
+        width: 53
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f7b077f50a64744a0697bf2a93cb86
+      internalID: 165030881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_88
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 378
+        width: 43
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0869be893b3918f4898e0ea9472f5456
+      internalID: -571664969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_89
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 378
+        width: 44
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8e2296121777d4fb6ac2535b804ce9
+      internalID: 1842186963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_90
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 444
+        width: 18
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4c599c4671b874c97b4960c581608f
+      internalID: 1470281696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_91
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 390
+        width: 47
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1de3ff2198a21408ea27a68f1107b4
+      internalID: -1068939262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 390
+        width: 47
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b08d89182f0b4640a0d946906ddb865
+      internalID: 1624240326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_93
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 391
+        width: 50
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feba951b84fce6c408e1ff2a05ccf685
+      internalID: 565514995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_94
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 379
+        width: 66
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a5561ad90599c4b8328ed7caf388f4
+      internalID: -1758844576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_95
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 394
+        width: 61
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7330cfee4b625048825d7f907d2df48
+      internalID: -1422975305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 395
+        width: 66
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805371dd9b89461429a8c02513190ffb
+      internalID: 455266802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_97
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 395
+        width: 63
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20536a52b6d63da4fa52f901b911a7cf
+      internalID: 1335734001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_98
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 395
+        width: 64
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82f8fa5d8c8bd41a7419ff545cbd7a
+      internalID: 124569396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_99
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 395
+        width: 64
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44226d81c4962b4c901eae174345bd2
+      internalID: 710266598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_100
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 379
+        width: 63
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9f38e7304f929409afbc2499718f1d
+      internalID: 1173726911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_101
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 393
+        width: 61
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba578007c6edc843a6b17afa5726a49
+      internalID: 615703594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_102
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 392
+        width: 60
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc62c7af29754e44bcf3fffa179d13c
+      internalID: -214967037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_103
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 391
+        width: 57
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbeb6ee4b5d3adc48b1ff8459b6bb236
+      internalID: -963683901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_104
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 379
+        width: 45
+        height: 65
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674c61cb7bf74e24db183f1505c060df
+      internalID: 226342328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_105
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 381
+        width: 47
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c1842d30b493443b2bbc52819b1ab1
+      internalID: 1879694311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_106
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 432
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f476cce4695fb1488d1f35beb0beb1c
+      internalID: 883916945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_107
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 386
+        width: 47
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b17489c84afe044a8ec6940ba511c7a
+      internalID: -1799019007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_108
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 415
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdf2c99e68ba4a469312cb62e16618b
+      internalID: -224806670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_109
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 410
+        width: 6
+        height: 4
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ff249701f32442a437dd9671b0cac
+      internalID: -383004554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_110
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 378
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71302be68c40ecb44a4b148c79475f41
+      internalID: -518372912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_111
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 378
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74416a732877ae8499cd539b7c4987a1
+      internalID: -95908885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_112
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 378
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3ab843a2e4d6d41b2b2166f6c3130a
+      internalID: -84504316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_113
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 378
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d1c99a66bc343449b054dde6a12c76
+      internalID: -772901785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_114
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 372
+        width: 18
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756d2f966de7e8d4eb834624ea7bd2e6
+      internalID: -1406495787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_115
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 366
+        width: 30
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8acfe3847c9f234a9b221b66add7dfb
+      internalID: 311717132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_116
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 372
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5884bb01cd7e3c44ac103d55717f1b2
+      internalID: 1386171906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_117
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 378
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f813202a655a9154ab762dbabec69a18
+      internalID: 572608196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_118
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 378
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcca7d551e8b184f891cdafb62f7b3c
+      internalID: 927101946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_119
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 311
+        width: 70
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebf5170a94678e4cba3510a170d69ae
+      internalID: -1586812778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_120
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 372
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de681c4e802518d41aa5fd27f61920f0
+      internalID: 158406355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_121
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 372
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b797941c7f1f7749940ef7188940511
+      internalID: -1654449268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_122
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 360
+        width: 5
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42740498ad97607438542e14a82537ba
+      internalID: -1214050885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_123
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 366
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7534de139de0e33478effac4d82d6921
+      internalID: -2050038620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_124
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 301
+        width: 58
+        height: 77
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba6a99c07ead8246bd55424cb9108a3
+      internalID: 1240457787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_125
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 301
+        width: 51
+        height: 72
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa377c26e9ce0746941d519a9d79241
+      internalID: 1125943539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_126
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 301
+        width: 46
+        height: 72
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40327f15a56c14f48bbe001ff77d5734
+      internalID: -1656216023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_127
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 307
+        width: 69
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528595e01ffce5f498397f29e13de4f4
+      internalID: 78118299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_128
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 365
+        width: 7
+        height: 7
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb0a3acb9f029f43bd96314e410c601
+      internalID: -2076581844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_129
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 366
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e2ee38e7899524ca6d6734a7d76f5c
+      internalID: -1946910236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_130
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 366
+        width: 21
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b37ecd06e6501648972cfb94dec2e07
+      internalID: 212739663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_131
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 366
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa27677b518047b45885c1203c3fb4a1
+      internalID: 1681318709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_132
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 301
+        width: 63
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a68ac5f20a44043ad8336235ef66bd
+      internalID: 715489041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_133
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 360
+        width: 5
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c13f9ee9b2ab845bef95efd5e02829
+      internalID: 1815648829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_134
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 303
+        width: 47
+        height: 69
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e564e9ec3f19b54fae952f5d3c057ab
+      internalID: -401917523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_135
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 303
+        width: 54
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c7e1fc50a2515488ff376618d1083e
+      internalID: 127402414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_136
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 308
+        width: 74
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d4240a0f07674992c8cbe00e0ce20
+      internalID: -1739096870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_137
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 360
+        width: 4
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49696cf0fa030f344beee8ec9b2013b5
+      internalID: 1451914854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_138
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 310
+        width: 53
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2ba9d9c5c6cd345842cff03ca7c4d2
+      internalID: -1108143825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_139
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 360
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81631a5e2edc3fb4890ae20fe985755a
+      internalID: 1415407260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_140
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 308
+        width: 56
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e0730f932bcc6429978bb4747acf3c
+      internalID: -1248609622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_141
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 305
+        width: 61
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bcc25d36940dd4fb86cc40af9495ea
+      internalID: -2053555927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_142
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 301
+        width: 63
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c8b5fc81a2c4940bd7b079458de2cb
+      internalID: 1566420550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_143
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 305
+        width: 64
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de87f09557d714b47a5c1961feed9e59
+      internalID: -822861824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 74
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1790a641c917a7c46ae05755d661244f
+      internalID: 780374882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_145
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 312
+        width: 69
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e7d6f929e40f941963488a8e6f3f7e
+      internalID: 343840157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_146
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 313
+        width: 64
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d53cbcea25482f439925f269c7ad7d7
+      internalID: 101889416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_147
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 342
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5f821f131abb4db89a1c595259730
+      internalID: -1685303158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_148
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 314
+        width: 61
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c878056d61e543649bf9d5c62e4b4f93
+      internalID: 649119133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_149
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 314
+        width: 56
+        height: 45
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbc76209ee4cc7448637c72cd49f9bf
+      internalID: 488775952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_150
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 313
+        width: 56
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f889347e2d440d4397d030df61aabcd
+      internalID: 1829122597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_151
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 312
+        width: 65
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a232429eeab2247bd7823f25221e92
+      internalID: -915717399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_152
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 303
+        width: 76
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc03d7b9b88596438d7ed2221419224
+      internalID: -1225830874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_153
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 303
+        width: 64
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c34db3e346b5674188f56125974f000
+      internalID: -714573686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_154
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 330
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55de46377d8a75c478d7d0aaef49fc32
+      internalID: 1472545611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_155
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 230
+        width: 50
+        height: 65
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549d6ae34a35f8b44ba9f279a23222eb
+      internalID: 12717307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_156
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 230
+        width: 52
+        height: 76
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c633313c097c3e7448d9cd3e2133a5d5
+      internalID: -622703094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_157
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 230
+        width: 51
+        height: 65
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbe1532adb5fc44685cc019980420ef
+      internalID: -197852296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_158
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 232
+        width: 48
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b1be54be4ff864199d4be0dbfd77ae
+      internalID: -125418484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_159
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 232
+        width: 50
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd5296afc4727446a236aa1aea80540
+      internalID: 1905399412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_160
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 230
+        width: 54
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bcd369c123b894a84df5493c59381b
+      internalID: -1514996807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_161
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 288
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dfe1515bd810048bd5aa015080ebf3
+      internalID: 729340751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_162
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 233
+        width: 49
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1201ddbceff45384da7da4e0564a878e
+      internalID: 124516023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_163
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 231
+        width: 55
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb0bc8f701f4cd46bcdb1f49d8e5c43
+      internalID: 1591159175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_164
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 222
+        width: 49
+        height: 72
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d668ab95f143846be8568a8d5f2062
+      internalID: -1783168317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_165
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 230
+        width: 56
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f853fc445088bbd4a88fcfc935363f07
+      internalID: -167537945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_166
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 231
+        width: 57
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c9afb56bed9c41bb705d67bafe5f3
+      internalID: -1964718074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_167
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 234
+        width: 56
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d90bdcf5fa7ca5498b1cc470741967b
+      internalID: -385941815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_168
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 235
+        width: 55
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f961a437ddfb54b90f0b0569b6d024
+      internalID: 1201317494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_169
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 239
+        width: 57
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe012e51e5e510540a3671854ee676f1
+      internalID: 1080738753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_170
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 228
+        width: 59
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d2c27b6d66bd6409035114f00e5ca7
+      internalID: 724468846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_171
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 237
+        width: 60
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a40cd3c201e7542890683f7cd503ae
+      internalID: -259562365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_172
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 228
+        width: 62
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eabef2308c34ce47b36e7867be6418a
+      internalID: -1472037863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_173
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 227
+        width: 55
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094c506c4bad34c4fbd794782a6d6198
+      internalID: 541337357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_174
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 282
+        width: 4
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0d128efdfd3d5478d58f30b2a6fea0
+      internalID: 1350967557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_175
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 236
+        width: 54
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f01c499fe6873946bc71da675e72eda
+      internalID: 1949337788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_176
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 235
+        width: 51
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ddd9f0f25986941adb1b632cf2e744
+      internalID: 2114727439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_177
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 222
+        width: 47
+        height: 65
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5b3a05e391d6d46bd36a5e48d38aae
+      internalID: 1211496934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_178
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 239
+        width: 62
+        height: 43
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a1fb1a67a94e479861ff7437ecf34
+      internalID: 1840436831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_179
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 240
+        width: 59
+        height: 42
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd90e3235c289a468c2063b19cbf3fe
+      internalID: 2008884929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_180
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 234
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2657f421440455c48a0fb60e36a74208
+      internalID: 2107589077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_181
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 159
+        width: 51
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a280e07766ef0e41aeb9f5d27859c8d
+      internalID: -1838563713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_182
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 150
+        width: 57
+        height: 71
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15703d5352f49e94d82089b6fbdcbcfb
+      internalID: -87932434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_183
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 228
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9969102b21899354ca06779cf3241325
+      internalID: 779068708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_184
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 219
+        width: 6
+        height: 15
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4dc745fa2008b4f9a709349e8de2e6
+      internalID: 1803534544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_185
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 163
+        width: 48
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164f967209f98254b8207e2c9e73a975
+      internalID: 24363843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_186
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 163
+        width: 55
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5187a3baab7db4198575a8195da26d
+      internalID: -934737680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_187
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 222
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1dae757983e014aaa6170e5e51fd35
+      internalID: -1531941521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_188
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 222
+        width: 4
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05b9d72cb639f4d82be53fe45228df
+      internalID: 669863749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_189
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 222
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e181f48d69c8734fa03aec7140aaf1b
+      internalID: -159211709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_190
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 216
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a14a24b89f11e745b3ab7ca4348c9ff
+      internalID: -1978658883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_191
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 222
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5658ceedbe2ed5946884482f26068ffa
+      internalID: 610669078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_192
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 222
+        width: 6
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279d58648527334495cc30f38546f61
+      internalID: -322254997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_193
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 58
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8561b2f0697ba14e80f7b241d6606a9
+      internalID: -981716725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_194
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 157
+        width: 53
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02016447c551843429a5cb10d78f8a74
+      internalID: -912336453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_195
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 156
+        width: 48
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657074c8dd1d6814d80272f68c06b688
+      internalID: -1832046742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_196
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 156
+        width: 48
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d67441ad996aeb4294926efbad11e16
+      internalID: 464234715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_197
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 157
+        width: 50
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b4f2caea3c7bd49aaaeb3f33357bbb
+      internalID: -659408104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_198
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 163
+        width: 59
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826ac28f5f3b8e247a7b44ce8821c28e
+      internalID: -662710418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_199
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 156
+        width: 64
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8514152c5754ab4e9d1f957470fd80f
+      internalID: 203182685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_200
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 165
+        width: 65
+        height: 48
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe68341641c50b438c01c7b7491c080
+      internalID: 308592188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_201
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 167
+        width: 63
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ae91e64c214ae4c96aa4a7def03a57
+      internalID: -1674672815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_202
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 163
+        width: 56
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a8e22aa03cb7749978f1a83281cbcf
+      internalID: 1311150712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_203
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 159
+        width: 54
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ccd876ffcf3dc4aa57d0d400e95e11
+      internalID: 1312595429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_204
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 155
+        width: 59
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c78c9d026eec4b40ac0036fb21ee642
+      internalID: -1596751408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_205
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 154
+        width: 45
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308fe277a7aa3f44a8a06dd04074e34e
+      internalID: -1909419501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_206
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 155
+        width: 55
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034def9d70b9d824582bf08ea391a573
+      internalID: -1991324276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_207
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 161
+        width: 65
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb11dcfc0fe7aea42ac7db474a26916b
+      internalID: -1453989454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_208
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 162
+        width: 69
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb8f5f5bc7f83c41a30d06b5daef948
+      internalID: 2131629585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_209
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 174
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03791040aa4f5f47b4201b1f7ab5d2c
+      internalID: 184279638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_210
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 169
+        width: 69
+        height: 44
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4fb3f37b8dc954aa7db973bbe21b71
+      internalID: -1214726056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_211
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 166
+        width: 68
+        height: 46
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30867fdc429983b489745061b9f37008
+      internalID: 953645224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_212
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 162
+        width: 63
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f7f0cec6972094b9f4bb01fb86e9f7
+      internalID: -809574355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0608616add0d9243a657734b5ab0945
+      internalID: 2066969540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_214
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 156
+        width: 10
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145cc44e48036ab4dabef92e9abcab0b
+      internalID: 1549028113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_215
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 150
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cc3ba03651aa94786f993cdec13661
+      internalID: -1012588271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_216
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 150
+        width: 9
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7567f73ef79747449941cfd34952de11
+      internalID: -1967821971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_217
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 144
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84b6e18655935d44ba166d29f68dd0f
+      internalID: 1124110946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_218
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 144
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d81e0ee66eb594fa822ed58faf0544
+      internalID: -827252288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_219
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 78
+        width: 66
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785d450fa8dea85458cdec388a67f9aa
+      internalID: -666551280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_220
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 78
+        width: 59
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c17e496e3737a46a878a2be47acce0
+      internalID: 1670376849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_221
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 85
+        width: 56
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786eedc0aab8c2745941b1ed7f957c8b
+      internalID: -505381121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_222
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 81
+        width: 46
+        height: 65
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b07bd92ae049149b21372180fc6a4e
+      internalID: 1810664005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_223
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 79
+        width: 44
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541cb0e15354d024aabf9eb472bf492b
+      internalID: 333825169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_224
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 82
+        width: 57
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e631503a36b5914c9a3c74b3416f4bb
+      internalID: 1272539503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_225
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 144
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a932519364b785e478b6a76fea9e70ff
+      internalID: 1906318601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_226
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 88
+        width: 67
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df97412d50282f44a92b3774d12b1d3d
+      internalID: -102201181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_227
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 85
+        width: 65
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b478dac064742544a3748fef5af6885
+      internalID: -594464687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_228
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 82
+        width: 62
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0222695d1a52c54ca6786221856a9d7
+      internalID: -241514737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_229
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 77
+        width: 53
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882726692b2d8ac4abfb775f9236f5b7
+      internalID: 437520161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_230
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 76
+        width: 44
+        height: 71
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfed35cc4f70c344ae8be25979e68fd
+      internalID: -378236001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_231
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 78
+        width: 54
+        height: 68
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c71c9ae8ef16c24fa8cb23b4e4a5c7e
+      internalID: 561587999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_232
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 79
+        width: 54
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71c0a58db740204e8dfa4206e145552
+      internalID: -476235889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_233
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 84
+        width: 63
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8ef50f3c3b3a5459136729403954df
+      internalID: -1257606254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_234
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 89
+        width: 66
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4a9683b68c8994990b1f302adf8362
+      internalID: 1543227708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_235
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 92
+        width: 68
+        height: 47
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4174ff39c701d4fac56a50178d1ae7
+      internalID: 90704303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_236
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 91
+        width: 69
+        height: 50
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b751b0fdccec246b1b971efec1a498
+      internalID: 457927614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_237
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 90
+        width: 69
+        height: 53
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0681bd476ee614abdd8016ccf2c0b6
+      internalID: 340763023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_238
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 79
+        width: 50
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd3d1d1bc60c284b84ce4ac359c5a3b
+      internalID: 67123814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_239
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 126
+        width: 6
+        height: 5
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d20d5aca41b7ef4ea91d3789b43624f
+      internalID: 437847451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_240
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 78
+        width: 61
+        height: 61
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147487d63a3d039439bfda002dd58a53
+      internalID: 1848630547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_241
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 91
+        width: 70
+        height: 49
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6455d12996490ab489beb95460fe87e7
+      internalID: -444095551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_242
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 89
+        width: 69
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77177c5ca4e375b47ad95dd7dc6d7d76
+      internalID: 1750725423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_243
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 82
+        width: 61
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4729f97dea8177f44b3f29df17be1fe5
+      internalID: 167026063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_244
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 90
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da162c41b486f3489317edd4297d342
+      internalID: -1734181825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_245
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 64
+        height: 72
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a1907028f7824499700d52137a626b
+      internalID: -750494414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_246
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3
+        width: 54
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e81afbf07b4604ba21c32079db2341
+      internalID: 1495061373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_247
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 6
+        width: 51
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8099178eec2797419c6d9ae6993a65f
+      internalID: 718072223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_248
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 9
+        width: 56
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b21584ec1419994da1680454950eec3
+      internalID: -1706501804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_249
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 9
+        width: 57
+        height: 69
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a144dd571005e240b27e9e6ca7e25ac
+      internalID: -927495718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_250
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 11
+        width: 57
+        height: 60
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3474bf64a63ce3b438c7e57ed491430f
+      internalID: -212207249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_251
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 0
+        width: 64
+        height: 70
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42df97c9d23d4c40bf3108f406bb528
+      internalID: -218211801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_252
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 78
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d045a667b627d448bfd0ae423e2720
+      internalID: -991671930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_253
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 13
+        width: 60
+        height: 56
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538fc649ffe6db341b1ab719975a5a81
+      internalID: 986250210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_254
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 13
+        width: 68
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caac1d751bbac284c895be239e6362d0
+      internalID: 750725896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_255
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 14
+        width: 63
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd3b7e429bbbbf40b57a7143ff0b734
+      internalID: 1066888650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_256
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 13
+        width: 61
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584c44af2fc87d34882b3f845405a240
+      internalID: -1695333034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_257
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 11
+        width: 55
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7578381b4e1f1d540bd37afd6813b299
+      internalID: 1123990353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_258
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 66
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553133f3fcf48f6419ea8f596ffabca0
+      internalID: -1493119139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_259
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 7
+        width: 61
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb443f64405e14845b4f43cb27b8d04a
+      internalID: -1930713935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_260
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 5
+        width: 50
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f296bd4bb37d6d419f7fb9888a310ee
+      internalID: -794717183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_261
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 5
+        width: 60
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55881e4ab83c76419ea600fabd641f5
+      internalID: 1332125443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_262
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 7
+        width: 57
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94cd14166ada648977fd1125381500
+      internalID: -228156332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_263
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1
+        width: 72
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b876da383ed3440b12a1c155560be1
+      internalID: -1209264616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_264
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 66
+        width: 9
+        height: 18
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4215ca79b34bf6740bb9d61e7e0dfec3
+      internalID: 160629392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_265
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 64
+        height: 63
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9c0ab545c0f6a4983472738a370951
+      internalID: -1083375024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_266
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 12
+        width: 63
+        height: 51
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97440d0cbfd64d4499a524ea4f1e4056
+      internalID: 754839975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_267
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 7
+        width: 64
+        height: 55
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee9098faddaed849b0003ea145ab364
+      internalID: 1331471274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_268
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 4
+        width: 66
+        height: 59
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cc9c9ca1767474b84a8907feae7a03
+      internalID: 207299016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_269
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3
+        width: 58
+        height: 62
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a7b2147f2f38f4abda65324ed324ca
+      internalID: 1187822172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_270
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 54
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3206eacfc4ef4184a7b589c2e807b
+      internalID: 105602377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_271
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 12
+        width: 61
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceee686160c3f64abae48cfbdb867fc
+      internalID: -1209734266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_272
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2021bc974c02aaa46b55c158988067d8
+      internalID: 1154576569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_273
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 24
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bdc7bb6ccf13e44bfb922d87a671bc
+      internalID: 2133653248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_274
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 6
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f66b1213ce149438bbcc3e016796a4
+      internalID: 409078602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: asteroids_diffuse_275
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 6
+        height: 6
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3729b49bc5da84aba7c9cd5f9276c7
+      internalID: 1812907807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      asteroids_diffuse_136: -1739096870
+      asteroids_diffuse_226: -102201181
+      asteroids_diffuse_3: 32667157
+      asteroids_diffuse_170: 724468846
+      asteroids_diffuse_94: -1758844576
+      asteroids_diffuse_14: 1164471116
+      asteroids_diffuse_239: 437847451
+      asteroids_diffuse_116: 1386171906
+      asteroids_diffuse_184: 1803534544
+      asteroids_diffuse_158: -125418484
+      asteroids_diffuse_218: -827252288
+      asteroids_diffuse_46: 253972009
+      asteroids_diffuse_56: -788839640
+      asteroids_diffuse_254: 750725896
+      asteroids_diffuse_268: 207299016
+      asteroids_diffuse_253: 986250210
+      asteroids_diffuse_151: -915717399
+      asteroids_diffuse_238: 67123814
+      asteroids_diffuse_17: 1812813144
+      asteroids_diffuse_156: -622703094
+      asteroids_diffuse_187: -1531941521
+      asteroids_diffuse_231: 561587999
+      asteroids_diffuse_173: 541337357
+      asteroids_diffuse_63: 624487103
+      asteroids_diffuse_207: -1453989454
+      asteroids_diffuse_103: -963683901
+      asteroids_diffuse_240: 1848630547
+      asteroids_diffuse_62: 626969351
+      asteroids_diffuse_24: 189820431
+      asteroids_diffuse_5: 105494310
+      asteroids_diffuse_145: 343840157
+      asteroids_diffuse_126: -1656216023
+      asteroids_diffuse_186: -934737680
+      asteroids_diffuse_29: -1869863673
+      asteroids_diffuse_49: 1747939117
+      asteroids_diffuse_134: -401917523
+      asteroids_diffuse_93: 565514995
+      asteroids_diffuse_180: 2107589077
+      asteroids_diffuse_104: 226342328
+      asteroids_diffuse_129: -1946910236
+      asteroids_diffuse_7: -653825809
+      asteroids_diffuse_80: 1171149931
+      asteroids_diffuse_76: 1142191810
+      asteroids_diffuse_37: -1909209802
+      asteroids_diffuse_159: 1905399412
+      asteroids_diffuse_209: 184279638
+      asteroids_diffuse_109: -383004554
+      asteroids_diffuse_65: 1673357869
+      asteroids_diffuse_179: 2008884929
+      asteroids_diffuse_157: -197852296
+      asteroids_diffuse_44: 1769837339
+      asteroids_diffuse_208: 2131629585
+      asteroids_diffuse_242: 1750725423
+      asteroids_diffuse_13: 228190312
+      asteroids_diffuse_79: 80494835
+      asteroids_diffuse_88: -571664969
+      asteroids_diffuse_121: -1654449268
+      asteroids_diffuse_219: -666551280
+      asteroids_diffuse_10: -242643681
+      asteroids_diffuse_266: 754839975
+      asteroids_diffuse_154: 1472545611
+      asteroids_diffuse_32: 767963419
+      asteroids_diffuse_203: 1312595429
+      asteroids_diffuse_216: -1967821971
+      asteroids_diffuse_54: 1263295709
+      asteroids_diffuse_194: -912336453
+      asteroids_diffuse_36: 1127565187
+      asteroids_diffuse_140: -1248609622
+      asteroids_diffuse_75: 1908611343
+      asteroids_diffuse_197: -659408104
+      asteroids_diffuse_204: -1596751408
+      asteroids_diffuse_183: 779068708
+      asteroids_diffuse_155: 12717307
+      asteroids_diffuse_108: -224806670
+      asteroids_diffuse_90: 1470281696
+      asteroids_diffuse_4: 1197200289
+      asteroids_diffuse_20: 511295333
+      asteroids_diffuse_26: 120042967
+      asteroids_diffuse_52: 412308083
+      asteroids_diffuse_210: -1214726056
+      asteroids_diffuse_261: 1332125443
+      asteroids_diffuse_201: -1674672815
+      asteroids_diffuse_31: 1478166371
+      asteroids_diffuse_161: 729340751
+      asteroids_diffuse_39: -1329578560
+      asteroids_diffuse_228: -241514737
+      asteroids_diffuse_148: 649119133
+      asteroids_diffuse_11: -612849687
+      asteroids_diffuse_12: 1975106511
+      asteroids_diffuse_214: 1549028113
+      asteroids_diffuse_213: 2066969540
+      asteroids_diffuse_224: 1272539503
+      asteroids_diffuse_102: -214967037
+      asteroids_diffuse_45: 2035858987
+      asteroids_diffuse_105: 1879694311
+      asteroids_diffuse_98: 124569396
+      asteroids_diffuse_38: -1931212914
+      asteroids_diffuse_81: 1454939828
+      asteroids_diffuse_275: 1812907807
+      asteroids_diffuse_171: -259562365
+      asteroids_diffuse_6: 386649119
+      asteroids_diffuse_143: -822861824
+      asteroids_diffuse_83: 1586176108
+      asteroids_diffuse_165: -167537945
+      asteroids_diffuse_263: -1209264616
+      asteroids_diffuse_200: 308592188
+      asteroids_diffuse_274: 409078602
+      asteroids_diffuse_92: 1624240326
+      asteroids_diffuse_30: 1035930398
+      asteroids_diffuse_119: -1586812778
+      asteroids_diffuse_97: 1335734001
+      asteroids_diffuse_195: -1832046742
+      asteroids_diffuse_113: -772901785
+      asteroids_diffuse_141: -2053555927
+      asteroids_diffuse_196: 464234715
+      asteroids_diffuse_264: 160629392
+      asteroids_diffuse_122: -1214050885
+      asteroids_diffuse_251: -218211801
+      asteroids_diffuse_202: 1311150712
+      asteroids_diffuse_245: -750494414
+      asteroids_diffuse_69: -1337154389
+      asteroids_diffuse_206: -1991324276
+      asteroids_diffuse_114: -1406495787
+      asteroids_diffuse_198: -662710418
+      asteroids_diffuse_124: 1240457787
+      asteroids_diffuse_192: -322254997
+      asteroids_diffuse_258: -1493119139
+      asteroids_diffuse_43: -899299855
+      asteroids_diffuse_272: 1154576569
+      asteroids_diffuse_169: 1080738753
+      asteroids_diffuse_132: 715489041
+      asteroids_diffuse_127: 78118299
+      asteroids_diffuse_50: -1245326615
+      asteroids_diffuse_34: -800113410
+      asteroids_diffuse_91: -1068939262
+      asteroids_diffuse_133: 1815648829
+      asteroids_diffuse_71: -1813181682
+      asteroids_diffuse_58: -606573507
+      asteroids_diffuse_42: -1447622410
+      asteroids_diffuse_89: 1842186963
+      asteroids_diffuse_232: -476235889
+      asteroids_diffuse_211: 953645224
+      asteroids_diffuse_217: 1124110946
+      asteroids_diffuse_16: 2019489609
+      asteroids_diffuse_225: 1906318601
+      asteroids_diffuse_27: -1525415554
+      asteroids_diffuse_0: 229541356
+      asteroids_diffuse_176: 2114727439
+      asteroids_diffuse_229: 437520161
+      asteroids_diffuse_221: -505381121
+      asteroids_diffuse_67: 1256981848
+      asteroids_diffuse_77: -1488641036
+      asteroids_diffuse_8: -1475278694
+      asteroids_diffuse_125: 1125943539
+      asteroids_diffuse_188: 669863749
+      asteroids_diffuse_205: -1909419501
+      asteroids_diffuse_241: -444095551
+      asteroids_diffuse_247: 718072223
+      asteroids_diffuse_87: 165030881
+      asteroids_diffuse_55: -1315540476
+      asteroids_diffuse_167: -385941815
+      asteroids_diffuse_249: -927495718
+      asteroids_diffuse_146: 101889416
+      asteroids_diffuse_144: 780374882
+      asteroids_diffuse_270: 105602377
+      asteroids_diffuse_25: -1043926392
+      asteroids_diffuse_191: 610669078
+      asteroids_diffuse_255: 1066888650
+      asteroids_diffuse_220: 1670376849
+      asteroids_diffuse_244: -1734181825
+      asteroids_diffuse_166: -1964718074
+      asteroids_diffuse_2: 401719612
+      asteroids_diffuse_96: 455266802
+      asteroids_diffuse_256: -1695333034
+      asteroids_diffuse_59: 1823342995
+      asteroids_diffuse_243: 167026063
+      asteroids_diffuse_73: -377459040
+      asteroids_diffuse_84: 1683584603
+      asteroids_diffuse_106: 883916945
+      asteroids_diffuse_246: 1495061373
+      asteroids_diffuse_142: 1566420550
+      asteroids_diffuse_153: -714573686
+      asteroids_diffuse_265: -1083375024
+      asteroids_diffuse_174: 1350967557
+      asteroids_diffuse_28: -1041998108
+      asteroids_diffuse_72: -924743899
+      asteroids_diffuse_130: 212739663
+      asteroids_diffuse_78: 1716764642
+      asteroids_diffuse_112: -84504316
+      asteroids_diffuse_160: -1514996807
+      asteroids_diffuse_47: -2031042
+      asteroids_diffuse_68: -660143122
+      asteroids_diffuse_163: 1591159175
+      asteroids_diffuse_193: -981716725
+      asteroids_diffuse_164: -1783168317
+      asteroids_diffuse_227: -594464687
+      asteroids_diffuse_18: -1360505974
+      asteroids_diffuse_168: 1201317494
+      asteroids_diffuse_137: 1451914854
+      asteroids_diffuse_178: 1840436831
+      asteroids_diffuse_259: -1930713935
+      asteroids_diffuse_267: 1331471274
+      asteroids_diffuse_107: -1799019007
+      asteroids_diffuse_185: 24363843
+      asteroids_diffuse_40: -1101673669
+      asteroids_diffuse_135: 127402414
+      asteroids_diffuse_235: 90704303
+      asteroids_diffuse_223: 333825169
+      asteroids_diffuse_86: 40489801
+      asteroids_diffuse_118: 927101946
+      asteroids_diffuse_70: -436475188
+      asteroids_diffuse_123: -2050038620
+      asteroids_diffuse_175: 1949337788
+      asteroids_diffuse_181: -1838563713
+      asteroids_diffuse_64: 136056463
+      asteroids_diffuse_60: 1627555342
+      asteroids_diffuse_115: 311717132
+      asteroids_diffuse_199: 203182685
+      asteroids_diffuse_35: 1404508051
+      asteroids_diffuse_215: -1012588271
+      asteroids_diffuse_33: -1232898618
+      asteroids_diffuse_111: -95908885
+      asteroids_diffuse_162: 124516023
+      asteroids_diffuse_128: -2076581844
+      asteroids_diffuse_233: -1257606254
+      asteroids_diffuse_61: -154836663
+      asteroids_diffuse_147: -1685303158
+      asteroids_diffuse_95: -1422975305
+      asteroids_diffuse_269: 1187822172
+      asteroids_diffuse_248: -1706501804
+      asteroids_diffuse_237: 340763023
+      asteroids_diffuse_236: 457927614
+      asteroids_diffuse_48: -1577913767
+      asteroids_diffuse_149: 488775952
+      asteroids_diffuse_53: 853347123
+      asteroids_diffuse_172: -1472037863
+      asteroids_diffuse_273: 2133653248
+      asteroids_diffuse_120: 158406355
+      asteroids_diffuse_230: -378236001
+      asteroids_diffuse_41: 1074697784
+      asteroids_diffuse_85: 1188053869
+      asteroids_diffuse_257: 1123990353
+      asteroids_diffuse_182: -87932434
+      asteroids_diffuse_19: -832018052
+      asteroids_diffuse_131: 1681318709
+      asteroids_diffuse_21: 1483614290
+      asteroids_diffuse_252: -991671930
+      asteroids_diffuse_74: 356737165
+      asteroids_diffuse_51: -2126497313
+      asteroids_diffuse_190: -1978658883
+      asteroids_diffuse_100: 1173726911
+      asteroids_diffuse_138: -1108143825
+      asteroids_diffuse_117: 572608196
+      asteroids_diffuse_150: 1829122597
+      asteroids_diffuse_189: -159211709
+      asteroids_diffuse_177: 1211496934
+      asteroids_diffuse_250: -212207249
+      asteroids_diffuse_222: 1810664005
+      asteroids_diffuse_262: -228156332
+      asteroids_diffuse_99: 710266598
+      asteroids_diffuse_234: 1543227708
+      asteroids_diffuse_260: -794717183
+      asteroids_diffuse_9: 1809750257
+      asteroids_diffuse_212: -809574355
+      asteroids_diffuse_82: -958387321
+      asteroids_diffuse_1: 1475602150
+      asteroids_diffuse_15: -23600580
+      asteroids_diffuse_22: 23150952
+      asteroids_diffuse_152: -1225830874
+      asteroids_diffuse_101: 615703594
+      asteroids_diffuse_57: -1497159089
+      asteroids_diffuse_271: -1209734266
+      asteroids_diffuse_139: 1415407260
+      asteroids_diffuse_110: -518372912
+      asteroids_diffuse_66: -786378669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
